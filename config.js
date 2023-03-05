@@ -15,7 +15,7 @@ global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://github.com/OminduAnjane
 module.exports = {
   botname: process.env.BOT_NAME || 'Queen-Lara-Md',
   ownername:process.env.OWNER_NAME || 'Omindu Anjana',
-  sessionName: process.env.SESSION_ID || 'PUT-HERE',
+  sessionName: process.env.SESSION_ID || 'S1I1OTJ_astro_WWlY=',
   author: process.env.PACK_INFO.split(";")[0], 
   packname: process.env.PACK_INFO.split(";")[1],
   autoreaction: process.env.AUTO_REACTION || 'on',
